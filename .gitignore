@@ -1,0 +1,14 @@
+# Ignore les fichiers sans extension
+*.
+
+# Ignore fichiers avec extensions .o or .out
+.o
+.out
+
+# Ignore fichiers spécifiques
+../.gitmodules
+bats-assert
+bats-core
+bats-support
+
+
